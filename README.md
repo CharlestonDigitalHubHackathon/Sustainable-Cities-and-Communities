@@ -11,5 +11,8 @@ Hazardous air pollutants, also known as toxic air pollutants or air toxics, are 
 
 The daily summary file contains data for every monitor (sampled parameter) in the Environmental Protection Agency (EPA) database for each day. This file will contain a daily summary record that is: 1. The aggregate of all sub-daily measurements taken at the monitor. 2. The single sample value if the monitor takes a single, daily sample (e.g., there is only one sample with a 24-hour duration). In this case, the mean and max daily sample will have the same value.
 
+## Dataset Download
+
+We will upload the dataset to be used during the challenge on Friday, February 22nd.
 
 [Sustainable Cities and Communities]: https://www.un.org/sustainabledevelopment/cities/
