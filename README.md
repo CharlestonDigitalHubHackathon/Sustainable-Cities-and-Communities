@@ -16,3 +16,30 @@ The daily summary file contains data for every monitor (sampled parameter) in th
 We will upload the dataset to be used during the challenge on Friday, February 22nd.
 
 [Sustainable Cities and Communities]: https://www.un.org/sustainabledevelopment/cities/
+
+## Team Repository Links
+[SCC-C1]  
+[SCC-C2]  
+[SCC-C3]  
+[SCC-C4]  
+[SCC-C5]  
+[SCC-C6]  
+[SCC-C7]  
+[SCC-C8]  
+[SCC-P1]  
+[SCC-P2]  
+[SCC-P3]  
+
+[Sustainable Cities and Communities]: https://www.un.org/sustainabledevelopment/cities/
+[SCC-C1]: https://github.com/CharlestonDigitalHubHackathon/SCC-C1
+[SCC-C2]: https://github.com/CharlestonDigitalHubHackathon/SCC-C2
+[SCC-C3]: https://github.com/CharlestonDigitalHubHackathon/SCC-C3
+[SCC-C4]: https://github.com/CharlestonDigitalHubHackathon/SCC-C4
+[SCC-C5]: https://github.com/CharlestonDigitalHubHackathon/SCC-C5
+[SCC-C6]: https://github.com/CharlestonDigitalHubHackathon/SCC-C6
+[SCC-C7]: https://github.com/CharlestonDigitalHubHackathon/SCC-C7
+[SCC-C8]: https://github.com/CharlestonDigitalHubHackathon/SCC-C8
+[SCC-P1]: https://github.com/CharlestonDigitalHubHackathon/SCC-P1
+[SCC-P2]: https://github.com/CharlestonDigitalHubHackathon/SCC-P2
+[SCC-P3]: https://github.com/CharlestonDigitalHubHackathon/SCC-P3
+
